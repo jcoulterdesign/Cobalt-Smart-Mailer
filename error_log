@@ -1,0 +1,37 @@
+[23-Oct-2014 16:58:26 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'absbestc_absbest' (0) in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 25
+[23-Oct-2014 17:02:05 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'absbestc_absbest' (0) in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 25
+[23-Oct-2014 17:02:11 America/Denver] PHP Warning:  mysqli::mysqli(): (HY000/2005): Unknown MySQL server host 'absbestc_absbest' (0) in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 25
+[23-Oct-2014 17:19:55 America/Denver] PHP Notice:  Undefined variable: con in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 33
+[23-Oct-2014 17:19:55 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 33
+[23-Oct-2014 17:21:00 America/Denver] PHP Notice:  Undefined variable: con in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 33
+[23-Oct-2014 17:21:00 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 33
+[23-Oct-2014 17:22:56 America/Denver] PHP Notice:  Undefined variable: con in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 33
+[23-Oct-2014 17:22:56 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 33
+[23-Oct-2014 17:22:56 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 43
+[23-Oct-2014 17:23:53 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 34
+[23-Oct-2014 17:23:53 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 44
+[23-Oct-2014 17:24:49 America/Denver] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 34
+[23-Oct-2014 17:24:49 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 44
+[23-Oct-2014 17:25:14 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 47
+[23-Oct-2014 17:25:51 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 47
+[23-Oct-2014 17:28:24 America/Denver] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 47
+[23-Oct-2014 17:30:26 America/Denver] PHP Parse error:  syntax error, unexpected '$collections' (T_VARIABLE) in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 46
+[23-Oct-2014 17:30:30 America/Denver] PHP Parse error:  syntax error, unexpected '$collections' (T_VARIABLE) in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 46
+[23-Oct-2014 17:30:43 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 47
+[23-Oct-2014 17:30:45 America/Denver] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 47
+[23-Oct-2014 17:31:10 America/Denver] PHP Parse error:  syntax error, unexpected '$collections' (T_VARIABLE) in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 46
+[23-Oct-2014 17:31:12 America/Denver] PHP Parse error:  syntax error, unexpected '$collections' (T_VARIABLE) in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 46
+[23-Oct-2014 17:31:12 America/Denver] PHP Parse error:  syntax error, unexpected '$collections' (T_VARIABLE) in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 46
+[23-Oct-2014 17:40:42 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 147
+[23-Oct-2014 17:40:45 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 147
+[23-Oct-2014 17:40:47 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 147
+[23-Oct-2014 17:40:47 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 147
+[23-Oct-2014 17:40:47 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 147
+[23-Oct-2014 17:44:03 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 153
+[23-Oct-2014 17:44:07 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 153
+[23-Oct-2014 17:46:59 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 769
+[23-Oct-2014 17:47:02 America/Denver] PHP Parse error:  syntax error, unexpected end of file in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 769
+[23-Oct-2014 18:37:27 America/Denver] PHP Parse error:  syntax error, unexpected 'substr' (T_STRING), expecting ',' or ';' in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 155
+[23-Oct-2014 18:37:29 America/Denver] PHP Parse error:  syntax error, unexpected 'substr' (T_STRING), expecting ',' or ';' in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 155
+[23-Oct-2014 18:37:36 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 155
+[23-Oct-2014 18:37:40 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home5/absbestc/public_html/jamie/cobaltSmartMailer/index.php on line 155
