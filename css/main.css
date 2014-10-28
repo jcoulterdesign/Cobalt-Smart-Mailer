@@ -71,7 +71,44 @@ textarea {
 		cursor:move;
 	}
 	
-	table{position:relative}
+	table{
+		position:relative
+	}
+	
+	p,h1,h2,h3,h4,h5,a{
+		position:relative;
+	}
+	
+	li{
+		list-style-type:none;padding:0;
+	}
+	
+	ul{
+		padding:0;
+		margin:0;
+	}
+	
+	#header{
+		margin-bottom: 40px;
+		background-color: rgb(53, 68, 74);
+		position: fixed;
+		top:0;
+		height: 100%;
+		padding: 12px 13px 10px 12px;
+	}
+
+	#header img{
+		width: 30px;
+	}
+	
+	#headerMenu{
+		height: 100%;
+		background-color: rgb(45, 54, 58);
+		position: absolute;
+		width: 200px;
+		left: -200px;
+		top: 0;
+	}
 	
 	.activeHover{
 		outline-style: dashed !important;
@@ -84,6 +121,7 @@ textarea {
 		left:-80px;
 		top:0;
 	}
+	
 	.editIcon{
 		background-color: rgb(105, 125, 177);
 		position: absolute;
@@ -98,8 +136,9 @@ textarea {
 		border-radius: 2px;
 		padding: 2px 10px;
 	}
+	
 	.tDelete,.tClone{
-	margin-bottom: 6px;
+		margin-bottom: 6px;
 		background-color: rgb(105, 125, 177);
 		right: 4px;
 		font-size: 11px;
@@ -113,52 +152,39 @@ textarea {
 		padding: 2px 10px;
 	}
 	
-	p,h1,h2,h3,h4,h5,a{position:relative;}
-	
-	li{
-		list-style-type:none;padding:0;
-	}
-	
-	ul{
-		padding:0;
-		margin:0;
-	}
-	
 	.ui-dialog{
 		width:500px !important;
 	}
 	
-	#header{
-margin-bottom: 40px;
-background-color: rgb(53, 68, 74);
-position: fixed;
-top:0;
-height: 100%;
-padding: 12px 13px 10px 12px;
-}
+	.templateB img{
+		width: 17px !important;
+		opacity: 0.7;
+		margin-left: 6px;
+	}
+	
+	.templateB img:hover{
+		opacity:1
+	}
+	
+	.templateB{
+		margin-top: 20px;
+		display: block;
+	}
 
-#header img{width: 30px;}
-#headerMenu{height: 100%;
-background-color: rgb(45, 54, 58);
-position: absolute;
-width: 200px;
-left: -200px;
-top: 0;}
-
-.templateB img{width: 17px !important;
-opacity: 0.7;
-margin-left: 6px;}
-.templateB img:hover{opacity:1}
-.templateB{margin-top: 20px;
-display: block;}
-
-.colourB img{width: 17px !important;
-opacity: 0.7;
-margin-left: 6px;}
-.colourB img:hover{opacity:1}
-.colourB{margin-top: 20px;
-display: block;}
-
+	.colourB img{
+		width: 17px !important;
+		opacity: 0.7;
+		margin-left: 6px;
+	}
+	
+	.colourB img:hover{
+		opacity:1
+	}
+	
+	.colourB{
+		margin-top: 20px;
+		display: block;
+	}
 
 
 /* ==========================================================================
