@@ -76,4 +76,26 @@ $(document).ready(function(){
 	});
 
 });
-	
+    // create the module and name it cobaltApp
+        // also include ngRoute for routing
+    var cobaltApp = angular.module('cobaltApp', ['ngRoute']);
+
+    // configure our routes
+    cobaltApp.config(function($routeProvider) {
+        $routeProvider
+
+            // route for the home page
+            .when('/', {
+                templateUrl : 'templates/absbest.html',
+                controller  : 'mainController'
+            })
+			.when('/gusto', {
+				templateUrl : 'templates/gusto/index.html',
+				controller : 'mainController'
+			});
+    });
+
+    // create the controller and inject Angular's $scope
+    cobaltApp.controller('mainController', function($scope) {
+        
+    });
